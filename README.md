@@ -1,75 +1,64 @@
-ClashCoin (CCN) Whitepaper
+![ClashCoin Logo](copilot_image_1792725322197.jpeg) 
 
-👤 المؤلف
-Ali Alhubaishi / Kakashi  
-Founder & Developer of ClashCoin Project
+# ClashCoin (CCN) Whitepaper
 
----
-
-📖 المقدمة
-ClashCoin هو مشروع عملة رقمية مبتكر مستوحى من عالم الألعاب، يهدف إلى دمج تجربة اللعب مع اقتصاد رقمي حقيقي.  
-يسعى المشروع لتحقيق توازن بين اللاعبين والمستثمرين والشركة، من خلال نظام مكافآت عادل ومستدام يعتمد على مبدأ الـ Halving لمنع التضخم وزيادة القيمة مع مرور الوقت.
+**Ali Alhubaishi / Kakashi**  
+Founder & Developer of ClashCoin Project  
 
 ---
 
-🎯 الرؤية والهدف
-· الرؤية: تحويل وقت اللعب إلى قيمة مالية حقيقية داخل وخارج اللعبة.  
-· الهدف: بناء نظام اقتصادي متكامل يربط بين التذكرة الذهبية، الجواهر، والمكافآت اليومية، مع إمكانية التداول في المنصات العالمية.
+## 📖 Introduction
+ClashCoin is an innovative digital currency inspired by the gaming world.  
+It aims to merge the gaming experience with a real digital economy.  
+The project seeks to achieve balance between players and investors through a fair and sustainable reward system based on the **Halving** principle — reducing inflation and increasing value over time.
 
 ---
 
-📊 التوكنوميكس
-· إجمالي المعروض: 30 مليار عملة.  
-· التعدين اليومي: 50% (15 مليار).  
-· المستثمرين والمنصات: 30% (9 مليار).  
-· المكافآت المجانية: 5% (1.5 مليار).  
-· الاحتياطي: 15% (4.5 مليار).  
+## 🎮 Concept
+ClashCoin connects real financial value inside and outside the gaming world.  
+It provides a complete ecosystem linking in‑game rewards and daily activities with the ability to trade on global platforms.
 
 ---
 
-⏳ نظام الـ Halving
-· يحدث كل سنتين لتقليل مكافأة التعدين بنسبة 50%.  
-· مجموع التعدين عبر 10 سنوات = 15 مليار عملة فقط.  
-· يضمن النظام ندرة العملة وزيادة قيمتها تدريجيًا.
+## 💰 Tokenomics
+- Total Supply: **15 million coins**
+- Distribution:
+  - Players & Rewards: **30% (9 million)**
+  - Developers & Team: **10% (1.5 million)**
+  - Public Sale: **30% (4.5 million)**
+  - Reserve & Future Development: **30% (4.5 million)**
 
 ---
 
-🛠️ التقنية والبنية
-· مبنية على شبكة BEP‑20 (Binance Smart Chain).  
-· العقود الذكية تخضع لتدقيق أمني مفتوح المصدر.  
-· دعم مستقبلي للدمج مع NFTs وسوق داخلي خاص باللاعبين.
+## ⚙️ Mechanism
+Each reward cycle follows the **Halving** model every 850 days.  
+This ensures long‑term stability and gradual value growth.
 
 ---
 
-🗺️ خارطة الطريق
-· 2027 Q1: إطلاق رسمي وتوزيع المكافآت الأولية.  
-· 2027 Q2: إدراج في PancakeSwap ثم منصات مثل OKX.  
-· 2027 Q3: دمج العملة داخل اللعبة (Gold Pass).  
-· 2027 Q4: إطلاق نظام NFT وسوق داخلي.
+## 🔗 Blockchain
+ClashCoin operates on **BEP‑20 (Binance Smart Chain)**.  
+It supports smart contracts and NFT integration for exclusive in‑game assets.
 
 ---
 
-🤝 الفريق والشراكات
-· القيادة: Ali Alhubaishi / Kakashi.  
-· الشراكات: تعاون مع مطوري الألعاب ومنصات تداول.  
-· المجتمع: دعم من لاعبي Clash حول العالم.
+## 🗓️ Roadmap
+- **2027 Q1:** Official launch and initial reward distribution.  
+- **2027 Q2:** Listing on **OKX** and **PancakeSwap** exchanges.  
+- **2027 Q3:** Launch of premium membership **Gold Pass**.  
+- **2027 Q4:** NFT marketplace release for ClashCoin ecosystem.
 
 ---
 
-🎨 الهوية البصرية
-· الاسم الرسمي: ClashCoin (CCN).  
-· الشعار: درع أحمر مع سيف وفأس متقاطعين.  
-· الألوان: الذهبي، الأحمر، الفضي.  
-· الأسلوب: ثلاثي الأبعاد مستوحى من عالم الألعاب.
+## 👨‍💻 Author
+**Ali Alhubaishi / Kakashi**  
+Game designer and developer.  
+Founder of ClashCoin and creator of the Clash gaming ecosystem.
 
 ---
 
-📝 الرخصة
-هذا المشروع مرخص تحت MIT License، مما يضمن توثيق الفكرة مع السماح باستخدامها مع ذكر المصدر.  
-ملف الرخصة موجود باسم LICENSE داخل المستودع.
+## ⚖️ License
+This project is released under the **MIT License**.  
+Feel free to use, modify, and distribute with proper attribution.
 
 ---
-
-📌 الخاتمة
-ClashCoin ليست مجرد عملة رقمية، بل مشروع يجمع بين المتعة والاستثمار، ويمنح اللاعبين حرية مالية حقيقية داخل عالمهم المفضل.  
-بفضل نظامها الاقتصادي المتوازن وخارطة طريقها الواقعية، تمثل ClashCoin خطوة جديدة نحو دمج الألعاب بالاقتصاد الرقمي العالمي.
